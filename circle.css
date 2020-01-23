@@ -7,4 +7,7 @@ canvas {
 html, body  {
     height: 100%;
     margin: 0;
+    color: aliceblue;
+    background: black;
+    text-align: center;
 }
